@@ -7,7 +7,6 @@ You will need a discord bot token
 How to use :
 Put your bot token were it says YOUR BOT TOKEN HERE
 Put your discord id were it says YOUR DISCORD ID HERE
-Then run the file
 
 
 
