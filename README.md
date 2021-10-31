@@ -2,13 +2,11 @@
 Discord nuke bot
 
 Requirements:
-You will need Python 3 or above to run this.
-You will need to pip install discord
-You will need a discord bot
+You will need a discord bot token
 
 How to use :
-Put your discord id were it says #YOUR DISCORD ID HERE
 Put your bot token were it says YOUR BOT TOKEN HERE
+Put your discord id were it says YOUR DISCORD ID HERE
 Then run the file
 
 
@@ -20,9 +18,6 @@ Do not sell this (as it is free because ur looking at it)
 
 
 
-If you skid this, i will hunt you down
-
-(Jk i wont but please remember that this took me a while to make and skidding dosent make you better at coding.)
 
 
 
